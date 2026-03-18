@@ -32,7 +32,6 @@ Interactive Filters (Year, Category, Country)
 🤖 AI Features in Power BI
 Key Influencers Visual
 Decomposition Tree
-Smart Narrative (Auto Insights)
 
 📌 Key Insights
 Identified top-performing products

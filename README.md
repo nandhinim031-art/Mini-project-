@@ -11,7 +11,7 @@ Build interactive dashboards in Power BI
 Apply AI visuals for advanced insights
 Identify sales trends, top products, and performance metrics
 🛠️ Tools & Technologies Used
-📗 Excel (Data Cleaning, Formulas, Pivot Tables)
+📗 Excel (Data Cleaning, Formulas)
 📊 Power BI (Dashboard & Visualization)
 🤖 AI Features (Key Influencers, Smart Narrative)
 
